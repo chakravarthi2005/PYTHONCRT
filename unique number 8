@@ -1,0 +1,6 @@
+def finduniqe(l):
+    n=len(l)
+    return n
+    
+l=[1,2,3,4,5,2,3,5,2,4,5,1,9,3]
+print(finduniqe(l))
